@@ -1,0 +1,222 @@
+priest="Haijin"
+level=110
+race=night_elf
+region=eu
+server=los_errantes
+role=spell
+professions=tailoring=800/enchanting=797
+talents=2211231
+spec=shadow
+artifact=47:0:0:0:0:764:1:765:1:766:1:767:4:768:1:769:1:770:1:771:4:772:4:773:4:774:4:775:4:776:4:777:4:778:4:779:1:1347:1:1381:1:1573:4:1574:1:1575:1:1576:5:1650:1
+
+head=,id=140851,bonus_id=3444/1492/3336
+neck=,id=137536,enchant_id=5437,bonus_id=3534/1542/3337
+shoulder=,id=138322,enchant_id=5883,bonus_id=3516/1497/3336
+back=,id=140910,enchant_id=5433,bonus_id=3516/1517/3337
+chest=,id=147167,bonus_id=3561/40/1497/3337
+wrist=,id=140886,bonus_id=3516/1808/1487/3528,gem_id=130220
+hands=,id=147164,bonus_id=3564/1467/3528
+waist=,id=132864,bonus_id=3529/3459/3570
+legs=,id=121326,bonus_id=3418/1557/3336
+feet=,id=134419,bonus_id=3418/1542/3528
+finger1=,id=132452,enchant_id=5428,bonus_id=3529/3459/3570,gem_id=130220
+finger2=,id=137438,enchant_id=5428,bonus_id=3418/1557/3337
+trinket1=,id=140792,bonus_id=3444/1482/1813
+trinket2=,id=134292,bonus_id=3573/42/604/1547/3336
+main_hand=,id=128827,bonus_id=740,relic_id=3561:1487:3336/3562:1502:3336/3515:1482:3336,gem_id=147109/151189/140823/0
+off_hand=,id=133958,relic_id=0/0,gem_id=0/0/0/0
+
+### Gear from Bags
+#
+# Gorjal de purificador (880)
+# head=,id=138313,bonus_id=3514/1477/3336
+#
+# Zenk'aram, guirnalda de Iridi (940)
+# head=,id=133971,bonus_id=1811/3455
+#
+# Blasón de soñador nocturno (870)
+# head=,id=139086,bonus_id=3474/1532/3337
+#
+# Hebra de las estrellas (890)
+# neck=,id=137487,bonus_id=3418/1542/3528
+#
+# Dije de los shal'dorei (890)
+# neck=,id=141325
+#
+# Colgante de goteo de lava (875)
+# neck=,id=137535,bonus_id=3418/1527/3336
+#
+# Prydaz, obra maestra de Xavaric (940)
+# neck=,id=132444,enchant_id=5890,bonus_id=3529/3530/1811,gem_id=130220
+#
+# Colgante de zancalobo (890)
+# neck=,id=133633,enchant_id=5890,bonus_id=3418/1542/3528
+#
+# Seducción de madre Shahraz (940)
+# shoulder=,id=132437,bonus_id=1811/3530
+#
+# Hombreras de olas aplastantes (885)
+# shoulder=,id=137360,bonus_id=3416/1537/3528
+#
+# Manto de flor perpetua (880)
+# shoulder=,id=139192,enchant_id=5441,bonus_id=1805/1502/3337
+#
+# Mantón de purificador (890)
+# back=,id=138370,enchant_id=5433,bonus_id=3516/42/1487/3528
+#
+# Exterminatus de Zek (940)
+# back=,id=144438,enchant_id=5433,bonus_id=1811/3530
+#
+# Togas de costuras de alma (900)
+# chest=,id=133611,bonus_id=3536/42/1552/3337
+#
+# Sotana de purificador (890)
+# chest=,id=138319,bonus_id=3516/1808/1487/3528,gem_id=130220
+#
+# Togas formales de Corte del Cuervo (895)
+# chest=,id=139246,bonus_id=3418/1547/3336
+#
+# Guerrera de ira humeante (905)
+# chest=,id=137352,bonus_id=3414/1557/3337
+#
+# Vestimentas rituales de orador del sino (900)
+# chest=,id=147733,bonus_id=3572/1482/3528
+#
+# Togas de energía fluctuante (900)
+# chest=,id=140848,bonus_id=3444/1497/3337
+#
+# Braciles de tormento maldito (880)
+# wrist=,id=137314,bonus_id=3573/1808/1532/3528,gem_id=130220
+#
+# Esposas escarchadas (900)
+# wrist=,id=133614,bonus_id=3509/1552/3337
+#
+# Pulseras de la novia afligida (905)
+# wrist=,id=142154,bonus_id=3418/1522/3337
+#
+# Guantes de conquista de la montaña (890)
+# hands=,id=134420,bonus_id=3534/1542/3337
+#
+# Mandiletes de invocador de escarabajos (905)
+# hands=,id=134418,bonus_id=3418/1557/3337
+#
+# Guantes de purificador (895)
+# hands=,id=138310,bonus_id=3516/1492/3336
+#
+# Guantes de cuidador de escórpidos (885)
+# hands=,id=140888,bonus_id=3444/42/1482/3528
+#
+# Guantes de orador de huesos (905)
+# hands=,id=134217,bonus_id=3418/1567/3337
+#
+# Cinturón de tormento eterno (905)
+# waist=,id=137331,bonus_id=3418/1557/3337
+#
+# Cordón de hilo rogg (885)
+# waist=,id=134171,bonus_id=3416/1808/1547/3528
+#
+# Leotardos de purificador (890)
+# legs=,id=138316,bonus_id=3516/1487/3528
+#
+# Leotardos del maestro mago de guerra (890)
+# legs=,id=140852,bonus_id=3516/1808/1487/3528,gem_id=130220
+#
+# Leotardos de magistrado de Suramar (845)
+# legs=,id=137496,bonus_id=1726/1497/3528
+#
+# Leotardos de runas espirales (895)
+# legs=,id=133610,bonus_id=3418/1547/3336
+#
+# Harapos de pies de errante desterrado (880)
+# feet=,id=140914,bonus_id=3515/1477/1813
+#
+# Sandalias perpetuamente enfangadas (885)
+# feet=,id=140854,bonus_id=3444/1482/1813
+#
+# Sortija de coral del abismo (900)
+# finger1=,id=147767,enchant_id=5429,bonus_id=3572/42/1482/3528
+#
+# Sello con gemas de hoja de hechizo (895)
+# finger1=,id=140895,enchant_id=5429,bonus_id=3516/40/1492/3336
+#
+# Anillo de pulgar roído (910)
+# finger1=,id=134526,bonus_id=3509/1808/1562/3337,gem_id=130222
+#
+# Aro de ojos óctuples (845)
+# finger1=,id=134527,bonus_id=1726/1808/42/1497/3528
+#
+# Toque doloroso de las gemelas (940)
+# finger1=,id=133973,enchant_id=5428,bonus_id=1811/3455,gem_id=130248
+#
+# Sortija de milenios oscuros (905)
+# finger1=,id=147766,enchant_id=5428,bonus_id=3572/41/1487/3336
+#
+# Alma del Sumo sacerdote (940)
+# finger1=,id=151646,bonus_id=1811/3530,gem_id=130220
+#
+# Aro de propósito virulento (885)
+# finger1=,id=134530,enchant_id=5428,bonus_id=3417/1808/1537/3528
+#
+# Sortija de albaluz de la llama febril (875)
+# finger1=,id=130231,enchant_id=5428,bonus_id=3374/689/600/674,gem_id=130220
+#
+# Sello corrupto del archidruida (875)
+# finger1=,id=134487,enchant_id=5428,bonus_id=3418/40/1527/3336
+#
+# Anillo del clan rastreado (885)
+# finger1=,id=140897,enchant_id=5428,bonus_id=3515/1482/3336
+#
+# Susurros en la oscuridad (895)
+# trinket1=,id=140809,bonus_id=3515/1492/3337
+#
+# Galardón de dominancia de Combatiente cruel (885)
+# trinket1=,id=145230,bonus_id=3573/604/1547/3336
+#
+# Distintivo de dominancia de Gladiador feroz (880)
+# trinket1=,id=145578,bonus_id=3573/1512/3528
+#
+# Pestecolmena enjambradora (880)
+# trinket1=,id=139321,bonus_id=3573/1502/3528
+#
+# Espejo de Aluriel (880)
+# trinket1=,id=140795,bonus_id=3514/1477/3336
+#
+# Escrito infernal (865)
+# trinket1=,id=137485,bonus_id=1727/1517/3528
+#
+# Furia del cielo en llamas (900)
+# trinket1=,id=140801,bonus_id=3516/1497/3336
+#
+# Carga de fulminación de cantatormentas (885)
+# trinket1=,id=137367,bonus_id=3573/1537/3336
+#
+# Urna etérea (890)
+# trinket1=,id=142166,bonus_id=3454/1487/3337
+#
+# Icono de podredumbre (890)
+# trinket1=,id=140798,bonus_id=3516/1808/1487/1813,gem_id=130220
+#
+# Grimorio prohibido de Pharamere (890)
+# trinket1=,id=140800,bonus_id=3516/1808/1487/1813,gem_id=130220
+#
+# Voluntad ardiente de Kil'jaeden (940)
+# trinket1=,id=144259,bonus_id=3459/3530
+#
+# Cronofragmento (905)
+# trinket1=,id=137419,bonus_id=3418/1557/3337
+#
+# Favor de Mrrgria (905)
+# trinket1=,id=142160,bonus_id=3418/1522/3337
+#
+# Cuerno del valor (905)
+# trinket1=,id=133642,bonus_id=3418/1557/3337
+#
+# Bono del Naglfar (890)
+# trinket1=,id=133645,bonus_id=3411/1542/3337
+#
+# Rubí relajante de Aran (905)
+# trinket1=,id=142157,bonus_id=3418/1517/3337
+#
+# Corola de la Pesadilla (885)
+# trinket1=,id=121311,bonus_id=3573/603/1547/3336
+#
